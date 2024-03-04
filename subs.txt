@@ -1,0 +1,4 @@
+computernetworks
+embeddded systems
+machiene learning  
+devops
